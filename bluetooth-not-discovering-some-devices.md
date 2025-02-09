@@ -19,3 +19,5 @@ Turns out that Bluetooth works in 3 modes:
 Seems like the ThinkPad mouse only operates in the `le` mode whereas my bluetooth
 config was configured to only support `bredr` and that prevented `bluetoothctl`
 from finding the mouse.
+
+[Back to home](./README.md)

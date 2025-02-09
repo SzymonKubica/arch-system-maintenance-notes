@@ -19,3 +19,5 @@ there are two possible alternatives:
 - change the lock script to not use screenshot if two monitors are detected
 
 Option 2 above requires some scripting effort but can be the final solution
+
+[Back to home](./README.md)

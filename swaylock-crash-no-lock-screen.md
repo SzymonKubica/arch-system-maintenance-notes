@@ -12,3 +12,5 @@ far
 
 Try a couple of times if this version is good. If not try to fix it or opt for
 another, more secure login mechanism.
+
+[Back to home](./README.md)
